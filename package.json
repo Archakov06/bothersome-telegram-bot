@@ -1,0 +1,27 @@
+{
+  "name": "bothersome-telegram-bot",
+  "version": "1.0.0",
+  "description": "Бот присылающий бессмысленные стикеры в заданное время.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archakov06/bothersome-telegram-bot.git"
+  },
+  "keywords": [
+    "telegra",
+    "bot",
+    "bothersome"
+  ],
+  "author": "Archakov Dennis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Archakov06/bothersome-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/Archakov06/bothersome-telegram-bot#readme",
+  "devDependencies": {
+    "node-telegram-bot-api": "^0.27.0"
+  }
+}
